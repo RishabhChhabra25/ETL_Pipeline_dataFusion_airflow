@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,email,password,job_title,department,salary,hire_date,phone_number
+e954fd46-fdd7-4680-b895-10982abf0996,Denise,Montgomery,denise.montgomery@hicks.com,_M!GZsOi*677,"Conservation officer, historic buildings",Sales,49954,2023-12-15,289.778.9834
+74ab396b-3c51-4f92-9e2b-c5975046d933,Thomas,Reyes,thomas.reyes@johnston.info,9cYnG8IiBPD^,Hospital doctor,IT,49781,2020-08-28,933.866.5217x29820
+14d5477e-2dbc-4d4f-ad7d-56c170d5e55d,Austin,Lynn,austin.lynn@johnson.com,WiqFe*xcv)4H,Public house manager,Human Resources,86374,2023-05-08,557-404-5228x623
+4ec5b182-ae91-499f-a801-eb18d5e74396,Allison,Carlson,allison.carlson@ferguson.info,60osc3b@(0zT,"Teacher, secondary school",Human Resources,31200,2025-03-23,(790)432-6679
+49d45e5c-408e-450c-98c7-8f22b602910d,Jermaine,Vasquez,jermaine.vasquez@dunlap-cain.com,@YAh7jzcG1zO,Clinical embryologist,Marketing,57376,2023-11-26,362-996-4776
+80172161-269a-49ec-b0c7-fefa5585b605,Haley,Miller,haley.miller@burgess.biz,W@6bR%l&IMXd,Financial adviser,Finance,44048,2022-10-17,421-229-7932
+2c9262cd-1936-4a90-9136-0abcf509f99d,David,Robinson,david.robinson@elliott.com,!2oMqd19Zq)p,Contractor,Finance,117420,2024-07-06,001-839-342-9718x27250
+0ef8ee16-a6d6-460c-a07f-9e6242d210d6,Joseph,Harris,joseph.harris@wiggins-gonzales.com,k_zrXgKo@(A5,Insurance account manager,IT,99153,2021-09-08,553.309.3619x888
+d728cccc-a04c-47e5-9242-091120e2ceff,Alicia,Walton,alicia.walton@henry.com,J(Gv3zUHoo%p,Environmental manager,Marketing,124122,2021-06-12,(460)310-4247
+76b4783d-9f6f-49ea-b25c-7ee180585f3e,Michelle,Porter,michelle.porter@boyd-riley.info,rS4bvD3r*jIc,"Buyer, retail",Sales,88818,2022-08-09,001-336-681-8776x462
+ba3feb49-5211-4838-bfc4-7602630e081c,Shelly,Fox,shelly.fox@perez.biz,D5z30&RyWC*a,Diplomatic Services operational officer,Finance,53743,2022-04-13,5118773813
+269c47c8-e16d-4875-a714-49804376c753,Julia,Grimes,julia.grimes@haas.com,n&7TLR+n9I4),"Engineer, broadcasting (operations)",Human Resources,124272,2024-06-14,+1-813-730-8641x4719
+474dbe54-21be-40dc-9b5f-18f4324d81fe,Frank,Higgins,frank.higgins@lewis.biz,)X4NR4ks#+vJ,Warden/ranger,Engineering,114559,2021-08-30,733.629.7828
+a6bb3784-9303-488d-9b71-f2f4baf0b3cf,Dylan,Ramsey,dylan.ramsey@baker-green.com,_Dh7bFhT($n&,Product designer,Engineering,148618,2021-08-22,383-733-9339x634
+7a03abf5-e6f5-4093-9e4f-703c87811107,Benjamin,Robinson,benjamin.robinson@murphy-torres.com,US##M6NmWXj_,IT sales professional,Marketing,97727,2025-05-18,534-539-3530
+f9db382c-b7df-4997-870d-ea7e1ddfccfe,Nicole,Gomez,nicole.gomez@perez.com,zlup+3Fh+@BA,Jewellery designer,Finance,61688,2023-01-09,(967)441-9381x7658
+d4ae819e-b5a5-47ed-9eea-b9285b97a7d3,Harold,Edwards,harold.edwards@tran.com,F1lWt&qh@ZvZ,Herbalist,Sales,116204,2022-07-12,+1-971-524-9445x89901
+32395154-c858-4352-8413-3f4843cae91e,Michael,Young,michael.young@gallagher-west.com,lTW_LrTq*rb1,Animal nutritionist,Engineering,42221,2022-04-27,777-465-5308x7161
+49a1700a-e1f7-43d3-a90c-28e495ecd822,Carolyn,Wiley,carolyn.wiley@maynard.info,C6mBZqfg$h!k,Office manager,IT,145567,2025-04-16,(576)500-6386x881
+3eee69b9-abd9-495e-bf93-0829163b16ea,Jamie,Bowen,jamie.bowen@williams.org,+B1yGllciXZa,Race relations officer,Sales,113598,2020-12-28,001-281-729-0096x8102
+4b8c5f28-f585-496a-b1ff-9c9f99d902ee,Christina,Hernandez,christina.hernandez@gonzalez-king.info,LLy_Mxae^!^6,Interpreter,Sales,108756,2022-02-05,981.318.0308x80497
+1d8232ca-1622-4009-9ea5-32a0de2011da,Scott,Harris,scott.harris@morgan.com,80lxKHqN_#Lr,"Therapist, horticultural",Human Resources,118847,2021-04-13,7035140728
+e57d68aa-c1ef-4efe-b2fd-0239770fabc8,Joseph,Boone,joseph.boone@miranda.info,#72x@wsoCWKN,"Engineer, broadcasting (operations)",Finance,45788,2023-04-07,001-794-710-0448x7599
+6dbea9b5-a562-44e1-bef9-ae5c425696cb,Michael,Garcia,michael.garcia@rivera-obrien.com,!3jbxl0W)&MI,"Scientist, research (maths)",Marketing,43299,2022-09-07,+1-330-660-9344x2660
+3b5217c6-339e-4ed8-911f-bf2c652088a1,Samantha,Mcfarland,samantha.mcfarland@mitchell.com,Vg2&DLTnk%Sp,"Designer, fashion/clothing",Marketing,63588,2022-05-19,373.757.5306
+933aea71-f716-4084-8ccf-21870ea154ad,Renee,Brennan,renee.brennan@knox.org,!TEXf1Ya9w05,Software engineer,Finance,98145,2022-05-09,220-515-7158
+c58ef177-a158-446c-bdb6-a61e12f003ba,Linda,Harvey,linda.harvey@malone-higgins.com,^w5CycY7%rT!,Architect,Human Resources,114308,2020-10-19,(824)611-7607x27295
+428f894b-12b4-4424-8a15-fea1d76828ba,Elizabeth,Thomas,elizabeth.thomas@montgomery.net,l%HT1z^l+7P+,"Pharmacist, hospital",Engineering,128080,2022-11-09,389.646.0699x6668
+4ac07048-e280-43fc-9927-f54b7c880c0c,Bryan,Acosta,bryan.acosta@short-bolton.biz,#8UTaih7)llS,"Conservation officer, nature",Marketing,107791,2023-06-21,(503)291-0197
+522bac00-cb17-4fb1-890d-ee5bf25947ec,Michael,York,michael.york@johnson-garcia.biz,1Qr$6rUw7j!!,Waste management officer,Engineering,121823,2024-05-14,3508232224
+6c645ab4-f86a-403f-a4dc-7372d0ed1f88,Barbara,Gutierrez,barbara.gutierrez@flores.info,47BqcK3u$+D1,"Scientist, research (physical sciences)",Human Resources,113315,2021-03-27,001-502-256-1720x07915
+58055188-5f57-4e2b-9a7d-863e3d3022be,Timothy,Johnson,timothy.johnson@small-conrad.com,U$@4Haob_F^H,Further education lecturer,Engineering,86331,2021-07-05,408.346.7185x444
+066aa139-f591-475b-b874-abd6d428ce0f,Christine,Miller,christine.miller@hester-warren.com,54X%sDScvPki,Dance movement psychotherapist,Human Resources,45021,2023-07-02,(991)408-9434x45819
+32443650-31aa-4856-b3bc-65c8926fdaa5,Gabriela,Torres,gabriela.torres@pruitt-spencer.net,uFJ(J8W@X9xJ,Legal secretary,Engineering,142033,2023-11-15,001-390-593-2805
+d55cc97a-ec12-4d67-9a31-c843de79a621,Jenna,Rangel,jenna.rangel@wilson-white.com,ft5qR5jE(qD5,Microbiologist,IT,73158,2021-11-30,844.914.6877
+a079382f-7208-4ba1-a93d-6f884e5a5269,Andrew,Valencia,andrew.valencia@shelton.com,jt4jRQop*7Nw,Educational psychologist,Marketing,143397,2025-08-11,751.680.0728x43473
+7fc55ca6-2448-4281-ab38-22a41d36bd22,Keith,Lamb,keith.lamb@mccoy-brown.info,IAnIlgJd(92U,Textile designer,Finance,61612,2023-02-15,935.642.6740
+5636e687-8a4f-4f0e-9a69-4673ffab3a3f,Laura,Richardson,laura.richardson@khan.com,Z9eSl&*p+rs9,Special effects artist,IT,80624,2020-12-18,6145529401
+24f27223-a4c9-4aaa-8685-2de5b7c2919b,Deborah,Lawrence,deborah.lawrence@wu-dawson.com,%iK2eCn5_nNH,"Journalist, newspaper",Sales,57142,2023-08-15,001-904-437-3217x0321
+82cc9163-2518-404a-be81-b40008ad1672,Grace,Villa,grace.villa@garcia.com,KkJW6dOA338@,"Nurse, adult",Marketing,115595,2023-02-07,001-566-795-8962x30413
+5e152b16-e781-4157-86a6-87846a6c57da,Dawn,Campbell,dawn.campbell@turner-mcdaniel.com,6H8$BkT9a(Iq,Technical brewer,IT,96678,2024-01-29,9887205052
+b9e3d23c-10fd-49ad-a1e7-bd5856562754,Victoria,Schmidt,victoria.schmidt@costa.info,C)d#TPbaza2H,Health physicist,IT,36689,2021-09-12,001-507-793-2631
+902a464b-ad66-4170-a114-6ebff2fa23b7,Elizabeth,Martin,elizabeth.martin@hall.biz,*I0G!tf5huVw,Field trials officer,Marketing,131466,2024-12-05,(605)856-6447x7558
+400cf78a-292b-47a5-bbf8-722fb5adba02,Theresa,Jones,theresa.jones@hinton.com,Iq1fdz$F&QRE,"Runner, broadcasting/film/video",Marketing,95987,2024-09-07,001-928-979-5382x3761
+1bc7e680-527f-49f9-81c0-144c041b706e,William,Costa,william.costa@rodriguez-davidson.net,$47I!KlhWdiM,"Therapist, nutritional",Human Resources,59906,2022-01-03,625-492-2200x14668
+e0b0c91b-f9d6-4fb7-8cf8-a4ccd377e966,Brandon,Murillo,brandon.murillo@ramirez.com,f5x^rywb$pTK,Tax inspector,IT,67704,2022-08-21,894-808-9097x84876
+f737e3fe-310e-4766-9c15-8f44b4fd2c65,Christine,Burns,christine.burns@charles.biz,)1puX8!8c1$X,Energy engineer,IT,110943,2021-02-05,269.797.1322
+b49e95af-783e-4672-bcf3-df37846ba50c,David,White,david.white@huff-oconnell.org,jT6r2YWq9_2*,Neurosurgeon,Sales,57370,2023-10-02,(318)965-0054
+63e67de9-7f85-470c-b6dc-43a5d4f74cc4,Roberto,Krueger,roberto.krueger@barber-zhang.com,_0c^@BImhr2R,"Designer, fashion/clothing",Sales,121939,2021-12-13,325.702.1984x10077
+e180fd82-0c82-48db-8442-76abf01c7b82,Stephen,Willis,stephen.willis@moon.com,+PTo_FNgE148,Financial risk analyst,Engineering,112851,2022-07-06,670-419-5659x42277
+79b76751-8b60-4d47-be8e-f89c026e129d,Deborah,Murray,deborah.murray@carter.com,_iRsAWRfE5Ot,"Sound technician, broadcasting/film/video",IT,48663,2025-06-18,918.418.5783x633
+a0a7cb55-fa08-48d7-86af-7649919d4572,Sue,Barnett,sue.barnett@smith-williams.com,1s7WI^(ex%gF,Interpreter,Engineering,108919,2020-11-05,6983573824
+39a42762-0e96-4a09-8c35-d24c795bf254,Patricia,Roberts,patricia.roberts@moore.org,qY4FrDf4x+35,Lawyer,Engineering,126619,2022-10-25,9343003549
+9b11edbf-c717-4441-b7bd-7f5f8b3a83a7,Brenda,Castillo,brenda.castillo@coleman.info,)p&AwYyMk8+@,Surgeon,Human Resources,82708,2022-09-19,2988514930
+291f055e-5304-4ae3-9966-61dd520f85c4,Anna,Rogers,anna.rogers@anderson-hardy.net,NP0$JioKlBWO,Market researcher,Human Resources,122482,2022-09-24,927.631.9729
+b9269f28-f698-4423-a4ba-3a28b50f622a,Melanie,Olson,melanie.olson@reid.com,3XfFQv9P)A9X,Operations geologist,Engineering,97323,2024-04-01,(354)866-8913x3728
+fa64578d-7924-4d1e-85ca-b707e49ffa71,Pamela,Mcdowell,pamela.mcdowell@martin-peterson.biz,)c3yT6Sld^1@,"Engineer, electrical",Human Resources,79539,2024-12-12,(425)208-4022
+d376b72d-fb4d-45c0-b2f5-8e761c5f1e53,Lawrence,Carter,lawrence.carter@garcia.biz,j$9%GhpJYhbH,Magazine features editor,IT,55801,2025-04-06,001-915-517-1402x164
+fea6bc54-b383-41db-9d00-6ec6399fea89,Kristie,Roman,kristie.roman@james.com,R8JgSh9px*G(,Systems developer,Engineering,139832,2025-02-10,729.759.6946x8263
+4604b1a2-9eaa-4a09-b433-adcc832261f4,Jeffrey,Harper,jeffrey.harper@graham-larson.com,_*q#idrG72DH,"Administrator, Civil Service",Sales,96152,2023-01-31,+1-427-662-7116x110
+d9a4eb2f-0e04-446f-a0d4-d70ea7d76e3e,Lauren,Ramirez,lauren.ramirez@waters.com,Pp+0IykatBO6,"Designer, multimedia",Engineering,57711,2023-01-01,9089662293
+8d61a3f0-0355-4583-9599-71cf8a71dc45,Alec,Brown,alec.brown@rosales.com,Q2smkESJ%h9N,Furniture designer,Marketing,147677,2020-11-21,726.853.1975x1374
+0a6f8a94-c0b4-47fd-a9a9-5aea8239b659,Isaac,Lee,isaac.lee@francis.com,(F7)EW*sFER(,"Designer, textile",Sales,88661,2022-12-16,(627)510-0867
+852ab247-c6fa-4b12-a5d9-a4a1e2e0b4c5,Mary,Tran,mary.tran@anderson.com,#b(Hu)Sl9m)y,Warehouse manager,IT,91343,2024-10-25,297.774.8719
+bb2e8ffb-4d27-4a4c-85f4-a076628483d6,Ryan,Blair,ryan.blair@myers-johns.com,%i6@0zZi#ybN,Television/film/video producer,Human Resources,125832,2021-12-22,490-814-8618
+1ba1c001-4124-4679-a413-f4b7b5ece1a2,Julie,Oliver,julie.oliver@phillips-sosa.com,5%LQibVnty1N,Health and safety inspector,Marketing,37032,2021-09-27,(203)460-9894
+f359d8b9-34f9-4a18-a866-76ea5e7b164a,Kaitlin,Johnson,kaitlin.johnson@phillips-taylor.org,(T%3JUbxi+YM,Gaffer,IT,125562,2023-02-22,505-831-4926x91378
+fc1d6e95-9cd6-43d2-aac7-4d28b89da8f9,Stephanie,Salazar,stephanie.salazar@weaver.com,BT3$0vCq4xl0,Outdoor activities/education manager,Marketing,44158,2021-10-24,913-447-8471
+dd66c52c-884b-404b-af37-e10b47383fbb,Renee,Lynch,renee.lynch@hardy.com,bp7Q_eo++61R,Adult nurse,Sales,67206,2022-09-13,231-850-0931x0838
+350932aa-39f5-48b6-b91e-7d865a7dc318,Tristan,Walker,tristan.walker@rivera.com,++)3mmNc8@(A,Audiological scientist,Sales,41848,2022-12-03,+1-444-431-2013x10456
+c14e3987-bc53-4c47-80aa-6704facede83,Michelle,Wilson,michelle.wilson@miles.biz,eyIqdATJ@9#S,"Designer, fashion/clothing",Marketing,84471,2024-09-01,(600)296-7386x20832
+d38a5ee9-93ea-410b-9d0b-5f801fb7a2e4,Tina,Ferguson,tina.ferguson@taylor-scott.com,)+34RFj&bY1@,Biomedical engineer,Engineering,43125,2025-01-06,(726)565-7364x0998
+6bb04000-4409-438a-8a4a-1a313668a4d7,Anthony,Lloyd,anthony.lloyd@williams-vang.net,W63mQ&Ln&6Et,Retail merchandiser,Human Resources,142863,2025-03-04,(961)908-9108x999
+73c598b7-6e0c-4a22-99b2-44c065a883c9,Michelle,Sanchez,michelle.sanchez@mccoy-jones.biz,(^(9$vqz$%rJ,Investment analyst,IT,135391,2023-04-28,407-935-4818
+ff637367-09b6-4435-b057-f0b9b8d834c1,Karen,Wilson,karen.wilson@terry-malone.info,0a7g^Uvpj(rw,Herbalist,Marketing,124089,2025-03-04,217.823.9542x302
+91c1d7f8-fa33-44d1-8f25-62f127371136,Darin,Buck,darin.buck@thomas.com,DB#hk#fT@+3T,Local government officer,Engineering,129431,2025-07-12,436-838-2380x273
+9b3f5e48-eeb7-43c5-8909-c0c1dd387543,Victoria,Thomas,victoria.thomas@garcia.com,6+s^rhq7LDjD,Astronomer,Engineering,42178,2021-10-07,(237)715-0966
+95ffcaf4-bceb-4efd-af91-2866b3bb434a,Valerie,George,valerie.george@richards.com,DR_3WF%mNE)Q,Economist,Finance,76176,2023-11-09,(516)731-0443x6105
+cdcc25c1-94d6-4c65-998d-f1b5f80f8638,Alexandra,Tyler,alexandra.tyler@wolfe.com,!Su7CgJ7I%Ov,Armed forces operational officer,Sales,115143,2020-10-07,001-711-248-1766x7113
+8964d251-e189-4427-a4e5-b849405d0000,Joanna,Massey,joanna.massey@gonzalez.com,%^zbac8X)a9T,Theme park manager,Finance,40992,2020-08-27,458.998.8335x385
+cc6e58f5-3711-4f73-a219-7afb89c8449a,Keith,Brooks,keith.brooks@pugh.net,_mE+Asoa#Q9T,Financial adviser,IT,78696,2022-04-14,(920)921-3161x10489
+42d7cd54-8a5a-4530-9cfe-27b7bf09d7be,Victoria,Jackson,victoria.jackson@pierce.com,Ix46TWW^p)5R,Multimedia programmer,Human Resources,122460,2021-05-05,(275)506-2802x195
+a9f88706-4a71-404d-bb55-5a9a5db065b3,Jenna,Bell,jenna.bell@best.com,7w&ObgFc)Ilk,"Secretary, company",Engineering,49756,2021-12-02,267-256-7350x56583
+76cf03f4-8d00-4fc9-96f1-bdd1ef369e0f,Christina,Parker,christina.parker@gonzalez.com,NenQpkY7$8+S,"Conservator, museum/gallery",IT,50918,2023-12-05,284.312.0726x50622
+7742963a-536f-471b-8ab9-816032e016a8,Patrick,Blanchard,patrick.blanchard@flores.com,j9FoVtil(*7O,Call centre manager,Finance,107614,2021-10-23,345-602-2167
+b137a223-3da1-4ed5-ac77-de1b9895d60c,Christopher,Mora,christopher.mora@shelton.net,w()@5J6f0D64,"Engineer, chemical",Marketing,102059,2024-09-05,613.990.8980x09051
+59b4212a-2a1b-4497-90c8-be1ca9bfbe74,Christopher,Smith,christopher.smith@preston.biz,Y!Gh2KazBj2),Hydrographic surveyor,IT,146881,2024-11-02,683.846.0197
+366ba052-5e7e-4df6-9365-4ef8f6fdc1b5,Kenneth,Rodriguez,kenneth.rodriguez@jackson-hughes.com,yA82*Du7TZY%,Special educational needs teacher,Sales,118053,2022-07-07,(896)255-8994x89666
+961cef7e-023a-40ec-8e6d-5834769b376a,Richard,Peterson,richard.peterson@thompson-stewart.net,&2Pi2Kb+FUgR,Cartographer,Marketing,142259,2022-12-06,859-733-9318
+2cd8ac43-7446-4fba-b7c0-e98ea0436dd6,Angela,Perez,angela.perez@deleon.biz,APy&Jr3pq8q7,Conference centre manager,Marketing,132978,2024-03-09,(255)718-0335
+db0b7606-80c4-4295-8a21-c67bf7dbc643,Lonnie,Floyd,lonnie.floyd@hernandez-harmon.org,8FPHv!m_&tcP,Dancer,Finance,138700,2024-06-25,(977)571-6370x2921
+8ada3eb9-3f57-4939-97e9-78287827bafc,Jeffrey,Hays,jeffrey.hays@walton.com,)y3q73JcI7DV,"Education officer, museum",Finance,93228,2021-03-28,(563)963-3223
+07759464-fb6b-4750-82d7-09fc01de57ec,Loretta,Thomas,loretta.thomas@jones.net,etrHD)Vvhg@3,Hydrographic surveyor,Marketing,83146,2025-04-09,296.998.8144
+194befab-7bb8-46ce-b375-73f5fa12ba33,Courtney,Lang,courtney.lang@moore.com,qE)9@@Lu+2$1,Event organiser,IT,34677,2021-10-28,001-284-568-6554x624
+a78a5405-b444-4f29-9392-a8fef4edf843,Derrick,Sosa,derrick.sosa@orozco-mason.com,@4T7V1kcIGX@,Further education lecturer,Human Resources,96146,2024-03-24,355-582-7353
+169c8e95-585d-4532-9be1-f42c5bb5168d,Victoria,Sims,victoria.sims@craig.com,^)7Ahw^3Op7q,Trading standards officer,Human Resources,97263,2022-03-18,(828)494-9496x881
+c18f39fc-7229-4694-87ae-a5af41db3ff6,Brandi,Kaufman,brandi.kaufman@bennett.com,)9_AQoCyATeW,Hydrogeologist,Marketing,93520,2025-01-11,(566)617-8176x1611
+28a9b696-75ed-40ec-8f4f-9b0f274dd79c,Alexandria,Huff,alexandria.huff@nguyen.com,v3WCB4KD*@s*,Magazine journalist,Engineering,39210,2023-09-19,001-555-901-2696x2482
+16757732-0be3-4845-bc91-ac7b54fdee12,Tammy,Lewis,tammy.lewis@brown.com,9Ewlv#ry(UQE,Media buyer,IT,69835,2023-05-21,219-345-0565x849
+02e7be52-055c-400b-8807-78eed4e63236,Benjamin,Stark,benjamin.stark@clayton.net,M1^+Qnnl)2f7,Video editor,Finance,133511,2024-03-11,327-436-4402
